@@ -6,7 +6,7 @@ description = "Community-made short videos about reversing opioid overdoses acro
 [taxonomies]
 tags = ["harm reduction", "naloxone", "storytelling", "research", "project"]
 [extra]
-image = '/images/project-3.jpg'
+image = '/images/projects/naloxone-champions.jpg'
 +++
 **Naloxone Champions: Digital Success Stories of Reversing Opioid Overdoses**
 is a community-engaged digital storytelling project led by Dr. Marty Otañez

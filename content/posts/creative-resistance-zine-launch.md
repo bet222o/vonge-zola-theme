@@ -5,7 +5,7 @@ description = "Join us June 25 in Denver for an evening with Heather Edney celeb
 [taxonomies]
 tags = ["harm reduction", "drug policy", "zine", "event", "Denver"]
 [extra]
-image = '/images/post-1.jpg'
+image = '/images/posts/creative-resistance-zine.jpg'
 +++
 Join us for **Creative Resistance: Arts-Based Activism and Drug Policy in
 Colorado**, an evening with **Heather Edney** celebrating the release of
