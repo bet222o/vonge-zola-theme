@@ -20,9 +20,10 @@ content_html = """
       <p>I&rsquo;m a co-founder of the <strong>Colorado Peer Policy Action
       Network (C2PAN)</strong> and an active member of the
       <strong>Colorado Drug Policy Coalition</strong> and
-      <strong>Right Response Colorado</strong>. My work spans opioid abatement
-      advocacy, overdose prevention, naloxone access, peer-led research, and
-      liberatory harm reduction education.</p>
+      <strong>Right Response Colorado</strong>. My work spans safer supply
+      access, overdose prevention, naloxone and harm reduction supply
+      distribution, peer-led research, and liberatory harm reduction
+      education.</p>
 
       <blockquote><p>People who use drugs are experts in their own lives. Policy
       that doesn&rsquo;t start there isn&rsquo;t policy &mdash; it&rsquo;s

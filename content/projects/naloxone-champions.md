@@ -20,10 +20,12 @@ naloxone, reducing stigma, and the humanity of people who use drugs.
 Community screenings followed in Alamosa, Pueblo, Denver, Fort Collins,
 Glenwood Springs, and Grand Junction in August 2021.
 
-I contributed to the project as a community partner and storyteller in the
-Denver cohort.
+I participated in the Denver cohort and shared my own story as part of the
+project.
 
-[Watch the Denver playlist on YouTube →](https://www.youtube.com/watch?v=2FNXS6nB4wQ&list=PLN5WZoQ6RyXOQqji34tS65YnH-KU3IiT0&index=15)
+[Watch my Naloxone Champions video →](https://www.youtube.com/watch?v=2FNXS6nB4wQ&list=PLN5WZoQ6RyXOQqji34tS65YnH-KU3IiT0&index=15)
+
+[Watch the full Denver playlist on YouTube →](https://www.youtube.com/playlist?list=PLN5WZoQ6RyXOQqji34tS65YnH-KU3IiT0)
 
 [About the project at CU Denver →](https://clas.ucdenver.edu/anthropology/naloxone-champions)
 
