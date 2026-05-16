@@ -2,15 +2,15 @@
 date = "2023-01-01"
 draft = false
 title = "Craft Consulting — Work with me"
-description = "Community-engaged research, harm reduction strategy, and peer-led program design."
+description = "Community-engaged research, Harm Reduction strategy, and peer-led program design."
 [taxonomies]
-tags = ["consulting", "harm reduction", "research", "peer support", "project"]
+tags = ["consulting", "Harm Reduction", "research", "peer support", "project"]
 [extra]
 image = '/images/project-4.jpg'
 +++
 **Craft Consulting LLC** offers community-engaged consulting for public
 health agencies, academic research teams, coalitions, and government
-partners working at the intersection of drug user health, harm reduction,
+partners working at the intersection of drug user health, Harm Reduction,
 and the criminal legal system.
 
 ### What I do
@@ -22,7 +22,7 @@ and the criminal legal system.
 - **Lived & living expertise advisory facilitation** — recruiting,
   compensating, and supporting community advisory boards and lived-experience
   panels on terms that actually work for participants.
-- **Harm reduction program design & strategy** — overdose prevention
+- **Harm Reduction program design & strategy** — overdose prevention
   frameworks, FTIR point-of-care drug checking, overdose fatality review,
   syringe access program development, and street outreach implementation.
 - **Peer support workforce strategy** — forensic peer support inside jails,

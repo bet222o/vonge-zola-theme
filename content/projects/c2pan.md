@@ -4,7 +4,7 @@ draft = false
 title = "C2PAN — Colorado Peer Policy Action Network"
 description = "Peer-led drug policy advocacy in Colorado jails."
 [taxonomies]
-tags = ["harm reduction", "peer support", "drug policy", "jails", "project"]
+tags = ["Harm Reduction", "peer support", "drug policy", "jails", "project"]
 [extra]
 image = '/images/project-1.jpg'
 +++
@@ -24,9 +24,9 @@ materials is available here:
 
 - Peer-led education inside Colorado jails on overdose prevention, naloxone,
   re-entry, and self-advocacy
-- Training and mentorship for peers entering harm reduction and policy work
+- Training and mentorship for peers entering Harm Reduction and policy work
 - Coalition advocacy alongside the Colorado Drug Policy Coalition, Right
-  Response Colorado, and harm reduction partners across the state
+  Response Colorado, and Harm Reduction partners across the state
 - Lived-experience research collaborations with academic and public health
   partners
 

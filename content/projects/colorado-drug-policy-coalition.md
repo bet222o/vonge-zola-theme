@@ -2,9 +2,9 @@
 date = "2023-02-01"
 draft = false
 title = "Colorado Drug Policy Coalition"
-description = "Statewide harm reduction policy."
+description = "Statewide Harm Reduction policy."
 [taxonomies]
-tags = ["drug policy", "harm reduction", "OPC", "coalition", "project"]
+tags = ["drug policy", "Harm Reduction", "OPC", "coalition", "project"]
 [extra]
 image = '/images/project-6.jpg'
 +++

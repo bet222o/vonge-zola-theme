@@ -4,7 +4,7 @@ draft = false
 title = "Right Response Colorado"
 description = "Advocating for community care, not incarceration."
 [taxonomies]
-tags = ["drug policy", "harm reduction", "advocacy", "coalition", "project"]
+tags = ["drug policy", "Harm Reduction", "advocacy", "coalition", "project"]
 [extra]
 image = '/images/project-2.jpg'
 +++
@@ -25,7 +25,7 @@ drugs and their families are centered in legislative work.
 ### Focus areas
 
 - Decoupling behavioral health crises from police response
-- Expanding harm reduction services and overdose prevention infrastructure
+- Expanding Harm Reduction services and overdose prevention infrastructure
 - Reducing criminal-legal penalties that drive overdose and disconnection from
   care
 - Building durable peer leadership in Colorado policy spaces

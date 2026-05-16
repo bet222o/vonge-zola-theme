@@ -1,11 +1,11 @@
 +++
 date = "2026-05-15"
 title = "Creative Resistance: arts-based activism and drug policy in Colorado"
-description = "Join us June 25 in Denver for an evening with Heather Edney celebrating the launch of 8:32, a drug user-led harm reduction zine."
+description = "Join us June 25 in Denver for an evening with Heather Edney celebrating the launch of 8:32, a drug user-led Harm Reduction zine."
 [taxonomies]
-tags = ["harm reduction", "drug policy", "zine", "event", "Denver"]
+tags = ["Harm Reduction", "drug policy", "zine", "event", "Denver"]
 [extra]
-image = '/images/posts/creative-resistance-zine.jpg'
+image = '/images/posts/Heather-Edney-Creative-Resistance.PNG'
 +++
 Join us for **Creative Resistance: Arts-Based Activism and Drug Policy in
 Colorado**, an evening with **Heather Edney** celebrating the release of

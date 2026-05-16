@@ -4,7 +4,7 @@ draft = false
 title = "Naloxone Champions: Digital Success Stories"
 description = "Community-made short videos about reversing opioid overdoses across Colorado."
 [taxonomies]
-tags = ["harm reduction", "naloxone", "storytelling", "research", "project"]
+tags = ["Harm Reduction", "naloxone", "storytelling", "research", "project"]
 [extra]
 image = '/images/projects/Taking-Our-Power-Back.PNG'
 +++
@@ -14,7 +14,7 @@ is a community-engaged digital storytelling project led by Dr. Marty Otañez
 Health and Environment and the CDC's *Overdose Data to Action* grant.
 
 In the summer of 2021, **76 Coloradans** — people who use drugs, family
-members, peer responders, EMS and harm reduction workers — joined hybrid
+members, peer responders, EMS and Harm Reduction workers — joined hybrid
 workshops to make short (~3 minute) videos about reversing overdoses with
 naloxone, reducing stigma, and the humanity of people who use drugs.
 Community screenings followed in Alamosa, Pueblo, Denver, Fort Collins,

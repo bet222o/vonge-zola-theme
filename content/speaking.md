@@ -9,7 +9,7 @@ description = "Conference presentations, invited lectures, panels, and exhibits 
 block = "content"
 content_html = """
       <p>I speak and teach on community-based participatory research with
-      people who use drugs, peer support in jails, harm reduction, drug
+      people who use drugs, peer support in jails, Harm Reduction, drug
       policy, arts-based dissemination, and lived-experience leadership.
       A curated selection appears below; the
       <a href="/cv/Betsy_Craft_CV.pdf"><strong>full CV (PDF)</strong></a>
@@ -115,7 +115,7 @@ content_html = """
 [[extra.content_blocks]]
 block = "newsletter"
 newsletter_title = "Stay in touch"
-newsletter_description = "Updates on harm reduction work, drug policy in Colorado, and community projects."
+newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community projects."
 newsletter_identifier = ""
 newsletter_button = "Subscribe"
 +++

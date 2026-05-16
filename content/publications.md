@@ -4,7 +4,7 @@ template = "custom_page.html"
 [[extra.content_blocks]]
 block = "page-heading"
 title = "Publications"
-description = "Peer-reviewed research with academic and community partners on harm reduction, criminal legal involvement, and overdose prevention."
+description = "Peer-reviewed research with academic and community partners on Harm Reduction, criminal legal involvement, and overdose prevention."
 [[extra.content_blocks]]
 block = "content"
 content_html = """
@@ -79,7 +79,7 @@ content_html = """
 [[extra.content_blocks]]
 block = "newsletter"
 newsletter_title = "Stay in touch"
-newsletter_description = "Updates on harm reduction work, drug policy in Colorado, and community projects."
+newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community projects."
 newsletter_identifier = ""
 newsletter_button = "Subscribe"
 +++

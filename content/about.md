@@ -11,7 +11,7 @@ image_alt = "Betsy Craft (TODO)"
 [[extra.content_blocks]]
 block = "content"
 content_html = """
-      <p>I&rsquo;m Betsy Craft &mdash; a harm reductionist, community-engaged
+      <p>I&rsquo;m Betsy Craft &mdash; a Harm Reductionist, community-engaged
       researcher, peer support practitioner, and drug policy advocate based in
       Colorado. I work at the intersection of lived experience and public
       health, partnering with people who use drugs, frontline organizers,
@@ -39,7 +39,7 @@ content_html = """
         involvement.</li>
 
         <li><strong>Founder &amp; Principal</strong>, <strong>Craft Consulting
-        LLC</strong> &mdash; community-engaged research, harm reduction
+        LLC</strong> &mdash; community-engaged research, Harm Reduction
         program design, peer support workforce strategy, and lived-experience
         advisory facilitation for public health agencies, academic teams, and
         coalitions.</li>
@@ -68,7 +68,7 @@ content_html = """
       &middot; drug user health and overdose prevention &middot; non-punitive
       drug policy &middot; mass incarceration and re-entry &middot;
       jail-based peer-led care &middot; qualitative and arts-based research
-      &middot; liberatory harm reduction &middot; community organizing
+      &middot; liberatory Harm Reduction &middot; community organizing
       &middot; coalition-building &middot; peer support &middot; systems
       change &middot; lived and living expertise leadership &middot;
       peer-led street outreach implementation &middot; FTIR drug checking
@@ -93,13 +93,13 @@ content_html = """
       people alive.</p>
 
       <p>If you&rsquo;d like to collaborate on community-engaged research,
-      policy advocacy, peer support program design, or harm reduction
+      policy advocacy, peer support program design, or Harm Reduction
       education &mdash; or to bring Craft Consulting in on a project &mdash;
       please get in touch.</p>"""
 [[extra.content_blocks]]
 block = "newsletter"
 newsletter_title = "Stay in touch"
-newsletter_description = "Updates on harm reduction work, drug policy in Colorado, and community projects."
+newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community projects."
 newsletter_identifier = ""
 newsletter_button = "Subscribe"
 +++

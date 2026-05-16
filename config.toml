@@ -3,7 +3,7 @@ base_url = "https://betsycraft.com"
 
 title = "Betsy Craft"
 author = "Betsy Craft"
-description = "Harm reductionist, community-engaged researcher, and drug policy advocate based in Colorado."
+description = "Harm Reductionist, community-engaged researcher, and drug policy advocate based in Colorado."
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -45,13 +45,13 @@ social_icons = [
 ]
 date_format = "%d %b %Y"
 language_direction = "auto"
-keywords = ["harm reduction", "drug policy", "Colorado", "peer support", "naloxone", "advocacy"]
+keywords = ["Harm Reduction", "drug policy", "Colorado", "peer support", "naloxone", "advocacy"]
 
 [extra.newsletter]
 newsletter_title = "Stay in touch"
 newsletter_identifier = ""
 newsletter_button = "Subscribe"
-newsletter_description = "Updates on harm reduction work, drug policy in Colorado, and community projects."
+newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community projects."
 
 [extra.footer]
 menu = [
@@ -69,7 +69,7 @@ menu = [
 [[extra.content_blocks]]
 block = "hero"
 title = "Hi, I'm Betsy Craft"
-description_html = "<strong>Harm reductionist, community-engaged researcher, and drug policy advocate</strong> based in Colorado. I work at the intersection of lived experience, public health, and policy &mdash; partnering with people who use drugs, peer organizers, and coalitions to shift Colorado away from punishment and toward care."
+description_html = "<strong>Harm Reductionist, community-engaged researcher, and drug policy advocate</strong> based in Colorado. I work at the intersection of lived experience, public health, and policy &mdash; partnering with people who use drugs, peer organizers, and coalitions to shift Colorado away from punishment and toward care."
 image = "/images/01.jpg"
 image_alt = "Betsy Craft"
 cta_button_link = "#contact"
@@ -81,7 +81,7 @@ block = "projects-section"
 title = "Selected Projects"
 description_html = """
     <p>Coalitions, research collaborations, and community storytelling projects
-    I&rsquo;ve helped build &mdash; all rooted in liberatory harm reduction and
+    I&rsquo;ve helped build &mdash; all rooted in liberatory Harm Reduction and
     drug user leadership.</p>"""
 link_url = "/projects"
 show_projects = true
@@ -89,14 +89,14 @@ show_projects = true
 block = "blog-section"
 title = "From the Blog"
 description_html = """
-    <p>Field notes from harm reduction work, zine launches, advocacy days, and
+    <p>Field notes from Harm Reduction work, zine launches, advocacy days, and
     community events around Colorado.</p>"""
 link_url = "/posts"
 show_posts = true
 [[extra.content_blocks]]
 block = "newsletter"
 newsletter_title = "Stay in touch"
-newsletter_description = "Updates on harm reduction work, drug policy in Colorado, and community projects."
+newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community projects."
 newsletter_identifier = ""
 newsletter_button = "Subscribe"
 [[extra.content_blocks]]
