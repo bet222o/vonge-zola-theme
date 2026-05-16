@@ -31,6 +31,8 @@ author_image = '/images/avatar.jpg'
 navigation = [
     { url = "$BASE_URL", title = "Home" },
     { url = "$BASE_URL/projects", title = "Projects" },
+    { url = "$BASE_URL/publications", title = "Publications" },
+    { url = "$BASE_URL/speaking", title = "Speaking" },
     { url = "$BASE_URL/posts", title = "Blog" },
     { url = "$BASE_URL/tags", title = "Tags" },
     { url = "$BASE_URL/about", title = "About" },
@@ -55,8 +57,11 @@ newsletter_description = "Updates on harm reduction work, drug policy in Colorad
 menu = [
     { url = "$BASE_URL", title = "Home" },
     { url = "$BASE_URL/projects/", title = "Projects" },
+    { url = "$BASE_URL/publications/", title = "Publications" },
+    { url = "$BASE_URL/speaking/", title = "Speaking" },
     { url = "$BASE_URL/posts/", title = "Blog" },
     { url = "$BASE_URL/about/", title = "About" },
+    { url = "/cv/Betsy_Craft_CV.pdf", title = "CV (PDF)" },
 ]
 #copyright = ""
 

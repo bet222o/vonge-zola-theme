@@ -6,7 +6,7 @@ description = "Community-made short videos about reversing opioid overdoses acro
 [taxonomies]
 tags = ["harm reduction", "naloxone", "storytelling", "research", "project"]
 [extra]
-image = '/images/projects/naloxone-champions.jpg'
+image = '/images/projects/Taking-Our-Power-Back.PNG'
 +++
 **Naloxone Champions: Digital Success Stories of Reversing Opioid Overdoses**
 is a community-engaged digital storytelling project led by Dr. Marty Otañez
@@ -22,8 +22,6 @@ Glenwood Springs, and Grand Junction in August 2021.
 
 I participated in the Denver cohort and shared my own story as part of the
 project.
-
-[Watch my Naloxone Champions video →](https://www.youtube.com/watch?v=2FNXS6nB4wQ&list=PLN5WZoQ6RyXOQqji34tS65YnH-KU3IiT0&index=15)
 
 [Watch the full Denver playlist on YouTube →](https://www.youtube.com/playlist?list=PLN5WZoQ6RyXOQqji34tS65YnH-KU3IiT0)
 
