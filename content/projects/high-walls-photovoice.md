@@ -1,7 +1,7 @@
 +++
 date = "2025-08-17"
 draft = false
-title = "High Walls — A Photovoice Project on Incarceration, Mental Health, and Substance Use"
+title = "High Walls — A Photovoice Project"
 description = "Community-led photovoice exhibit at Redline Contemporary Art Center, Denver."
 [taxonomies]
 tags = ["photovoice", "arts-based research", "incarceration", "mental health", "project"]
