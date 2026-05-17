@@ -5,6 +5,8 @@ template = "custom_page.html"
 block = "page-heading"
 title = "Speaking"
 description = "Conference presentations, invited lectures, panels, and exhibits — selected highlights."
+[extra]
+image = '/images/projects/Best-Practices-Engaging-PWUD-Research-Partners-And-Participants.png'
 [[extra.content_blocks]]
 block = "content"
 content_html = """
