@@ -14,6 +14,34 @@
     padding: 30px 0 60px;
   }
 
+  &__banner-text {
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 1.05;
+    letter-spacing: -0.01em;
+    text-align: center;
+
+    @media only screen and (max-width: 1130px) {
+      font-size: 52px;
+      margin-bottom: 0px;
+    }
+
+    @media only screen and (max-width: $desktop) {
+      font-size: 44px;
+      margin-bottom: 0px;
+    }
+
+    @media only screen and (max-width: $tablet) {
+      font-size: 36px;
+      margin-bottom: 0px;
+    }
+
+    @media only screen and (max-width: $mobile) {
+      font-size: 28px;
+      margin-bottom: 0px;
+    }
+  }
+
   &__banner {
     position: relative;
     width: 100%;
@@ -23,9 +51,6 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     overflow: hidden;
 
     @media only screen and (max-width: $desktop) {
@@ -43,58 +68,6 @@
       height: 180px;
       margin-bottom: 24px;
       border-radius: 16px;
-    }
-  }
-
-  &__banner-text {
-    position: relative;
-    z-index: 1;
-    display: inline-block;
-    font-family: inherit;
-    font-weight: 800;
-    font-size: 84px;
-    line-height: 1.05;
-    letter-spacing: -0.01em;
-    text-align: center;
-    color: gray;
-    opacity: 0.6;
-    padding: 0 24px;
-    // White text with black outline.
-    // paint-order ensures the stroke is drawn *behind* the fill so the
-    // text stays white instead of being overpainted by the stroke.
-    -webkit-text-stroke: 3px #000;
-    paint-order: stroke fill;
-    // Belt-and-suspenders outline for browsers that ignore text-stroke.
-    text-shadow:
-      -2px -2px 0 #000,
-       2px -2px 0 #000,
-      -2px  2px 0 #000,
-       2px  2px 0 #000,
-       0    0  14px rgba(0, 0, 0, 0.5);
-
-    @media only screen and (max-width: 1130px) {
-      font-size: 64px;
-    }
-
-    @media only screen and (max-width: $desktop) {
-      font-size: 52px;
-      -webkit-text-stroke-width: 2.5px;
-    }
-
-    @media only screen and (max-width: $tablet) {
-      font-size: 42px;
-      -webkit-text-stroke-width: 2px;
-    }
-
-    @media only screen and (max-width: $mobile) {
-      font-size: 30px;
-      -webkit-text-stroke-width: 1.5px;
-      text-shadow:
-        -1px -1px 0 #000,
-         1px -1px 0 #000,
-        -1px  1px 0 #000,
-         1px  1px 0 #000,
-         0    0  8px rgba(0, 0, 0, 0.45);
     }
   }
 
