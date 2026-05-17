@@ -43,9 +43,11 @@
 
   .footer_nav {
     text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 
     .footer_nav__item {
-      display: inline;
       margin: 0 24px;
       font-size: 0;
     }
@@ -54,6 +56,7 @@
       font-size: 16px;
       font-weight: 600;
       color: $white;
+      white-space:nowrap;
     }
   }
 
