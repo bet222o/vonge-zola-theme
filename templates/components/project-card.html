@@ -2,8 +2,10 @@
 {% set c = 'c-project-card' %}
 <article class="{{c}} col col-4 col-d-6 col-t-12{% if data.extra.logo %} {{ c }}--logo{% endif %}">
   <div class="{{c}}__content">
-    <a href="{{ data.permalink }}" class="{{c}}__image">
+    <a href="{{ data.permalink }}" class="{{c}}__image{% if not data.extra.image %} {{c}}__image--empty{% endif %}">
+      {% if data.extra.image %}
       <img loading="lazy" src="{{ get_url(path=data.extra.image) }}" alt="{{ data.title }}">
+      {% endif %}
     </a>
     <div class="{{c}}__info">
       <div class="{{c}}__info-wrap">
