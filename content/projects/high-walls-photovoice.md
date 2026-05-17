@@ -5,6 +5,8 @@ title = "High Walls — A Photovoice Project on Incarceration, Mental Health, an
 description = "Community-led photovoice exhibit at Redline Contemporary Art Center, Denver."
 [taxonomies]
 tags = ["photovoice", "arts-based research", "incarceration", "mental health", "project"]
+[extra]
+image = 'images/projects/high-walls-summit.jpeg'
 +++
 
 **High Walls** is a community-led photovoice project on incarceration,
