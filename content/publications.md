@@ -4,7 +4,7 @@ template = "custom_page.html"
 [[extra.content_blocks]]
 block = "page-heading"
 title = "Publications"
-description = "Peer-reviewed research with academic and community partners on Harm Reduction, criminal legal involvement, and overdose prevention."
+description = "Peer-reviewed research with academic and community partners at the intersection of substance use, mental health, overdose and the criminal legal system."
 [[extra.content_blocks]]
 block = "content"
 content_html = """
