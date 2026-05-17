@@ -6,7 +6,7 @@ description = "Community-engaged research, Harm Reduction strategy, and peer-led
 [taxonomies]
 tags = ["consulting", "Harm Reduction", "research", "peer support", "project"]
 [extra]
-image = '/images/project-4.jpg'
+image = '/images/projects/craft-consulting.png'
 +++
 **Craft Consulting LLC** offers community-engaged consulting for public
 health agencies, academic research teams, coalitions, and government

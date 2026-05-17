@@ -6,7 +6,8 @@ description = "Statewide Harm Reduction policy."
 [taxonomies]
 tags = ["drug policy", "Harm Reduction", "OPC", "coalition", "project"]
 [extra]
-image = '/images/project-6.jpg'
+image = '/images/projects/codpc.png'
+logo = true
 +++
 I'm the **Policy Director** at the **Colorado Drug Policy Coalition
 (CDPC)**, a statewide coalition that formed in response to Colorado's 2023
