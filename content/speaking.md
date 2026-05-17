@@ -28,11 +28,11 @@ content_html = """
 
         <li><strong>2026 &middot; Virtual.</strong> Best Practices for
         Engaging People Who Use Drugs as Research Partners and Participants.
-        Health Systems Node Monthly Seminar. (with LeMasters)</li>
+        Health Systems Node Monthly Seminar. Hosted by Dr. Ingrid Binswanger (with LeMasters)</li>
 
         <li><strong>2026 &middot; Virtual.</strong> Invited lecture,
         Addictions Counseling, Graduate School of Mindfulness Based
-        Transpersonal Counseling Program (Dr. Jetaun Bailey).</li>
+        Transpersonal Counseling Program Instructor: Dr. Jetaun Bailey.</li>
       </ul>
 
       <h2>Selected 2025 talks &amp; panels</h2>
