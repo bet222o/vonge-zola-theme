@@ -10,7 +10,7 @@ block = "content"
 content_html = """
       <p>I speak and teach on community-based participatory research with
       people who use drugs, peer support in jails, Harm Reduction, drug
-      policy, arts-based dissemination, and lived-experience leadership.
+      policy, arts-based dissemination, and lived and living expertise leadership.
       A curated selection appears below; the
       <a href="/cv/Betsy_Craft_CV.pdf"><strong>full CV (PDF)</strong></a>
       includes the complete list of talks, posters, and lectures.</p>
