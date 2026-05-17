@@ -73,8 +73,6 @@ block = "hero"
 background_image = "/images/group.jpeg"
 background_image_text = "We keep us safe"
 background_image_alt = "Community gathering"
-[[extra.content_blocks]]
-block = "hero"
 title = "Hi, I'm Betsy Craft"
 description_html = "<strong>Harm Reductionist, community-engaged researcher, and drug policy advocate</strong> based in Colorado. I work at the intersection of lived experience, public health, and policy &mdash; partnering with people who use drugs, peer organizers, and coalitions to shift Colorado away from punishment and toward care."
 image = "/images/01.jpg"

@@ -56,7 +56,8 @@
     line-height: 1.05;
     letter-spacing: -0.01em;
     text-align: center;
-    color: #fff;
+    color: gray;
+    opacity: 0.6;
     padding: 0 24px;
     // White text with black outline.
     // paint-order ensures the stroke is drawn *behind* the fill so the
