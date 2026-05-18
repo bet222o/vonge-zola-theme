@@ -98,24 +98,16 @@ description_html = """
     community events around Colorado.</p>"""
 link_url = "/posts"
 show_posts = true
-# Newsletter block — disabled until a Mailchimp (or similar) form is set up.
-# Re-enable by uncommenting this block and setting newsletter_identifier to
-# the Mailchimp form action URL.
-# [[extra.content_blocks]]
-# block = "newsletter"
-# newsletter_title = "Stay in touch"
-# newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community projects."
-# newsletter_identifier = ""
-# newsletter_button = "Subscribe"
-
-# Contact form block — disabled until a form-handler service (e.g. Formspree)
-# is set up. POSTing to a static GitHub Pages site returns 405 Method Not
-# Allowed. Re-enable by uncommenting this block and setting form_success_page
-# to the form-handler endpoint URL (e.g. https://formspree.io/f/xxxxxx).
-# [[extra.content_blocks]]
-# block = "contact-form"
-# form_title = "Get in touch"
-# form_description = "Have a project, collaboration, or speaking opportunity? Drop a note."
-# form_success_page = ''
-# form_submission_email = "betsy.coloradodpc@gmail.com"
-# form_button_text = "Send"
+[[extra.content_blocks]]
+block = "newsletter"
+newsletter_title = "Stay in touch"
+newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community projects."
+newsletter_identifier = ""
+newsletter_button = "Subscribe"
+[[extra.content_blocks]]
+block = "contact-form"
+form_title = "Get in touch"
+form_description = "Have a project, collaboration, or speaking opportunity? Drop a note."
+form_success_page = ''
+form_submission_email = "betsy.coloradodpc@gmail.com"
+form_button_text = "Send"

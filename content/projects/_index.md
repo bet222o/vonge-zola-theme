@@ -9,4 +9,10 @@ description = "Coalitions, research collaborations, and community storytelling p
 [[extra.content_blocks]]
 block = "projects-list"
 show_projects = true
+[[extra.content_blocks]]
+block = "newsletter"
+newsletter_title = "Stay in touch"
+newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community projects."
+newsletter_identifier = ""
+newsletter_button = "Subscribe"
 +++
