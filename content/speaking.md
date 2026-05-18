@@ -18,7 +18,7 @@ content_html = """
       includes the complete list of talks, posters, and lectures.</p>
 
       <p>If you&rsquo;d like to invite me to speak, teach, keynote, or sit on
-      a panel, please <a href="/#contact">get in touch</a>.</p>
+      a panel, please <a href="mailto:betsy.coloradodpc@gmail.com">get in touch</a>.</p>
 
       <h2>Recent &amp; upcoming talks</h2>
       <ul>

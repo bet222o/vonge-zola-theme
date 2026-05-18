@@ -6,8 +6,8 @@ block = "page-heading"
 title = "About"
 [[extra.content_blocks]]
 block = "page-image"
-image = "/images/page-1.jpg"
-image_alt = "Betsy Craft (TODO)"
+image = "/images/01.jpg"
+image_alt = "Betsy Craft"
 [[extra.content_blocks]]
 block = "content"
 content_html = """
@@ -95,7 +95,7 @@ content_html = """
       <p>If you&rsquo;d like to collaborate on community-engaged research,
       policy advocacy, peer support program design, or Harm Reduction
       education &mdash; or to bring Craft Consulting in on a project &mdash;
-      please get in touch.</p>"""
+      <a href="mailto:betsy.coloradodpc@gmail.com">please get in touch.</a>"""
 [[extra.content_blocks]]
 block = "newsletter"
 newsletter_title = "Stay in touch"

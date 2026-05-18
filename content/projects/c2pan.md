@@ -32,4 +32,4 @@ materials is available here:
   partners
 
 If you'd like to collaborate with C2PAN — bring a presentation to your
-facility, support our advocacy, or partner on research — please get in touch.
+facility, support our advocacy, or partner on research — please [get in touch](mailto:betsy.coloradodpc@gmail.com).

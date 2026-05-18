@@ -52,4 +52,4 @@ If you're a public health agency, research team, foundation, or coalition
 looking for a partner who centers people who use drugs in your work, I'd
 love to hear about what you're building.
 
-[Get in touch →](/#contact)
+[Get in touch →](mailto:betsy.coloradodpc@gmail.com)
