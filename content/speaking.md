@@ -41,36 +41,41 @@ content_html = """
         Instructor: Dr. Bailey.</li>
       </ul>
 
-      <h2>Selected 2025 talks &amp; panels</h2>
+      <h2>Selected 2025 talks, panels, &amp; posters</h2>
       <ul>
-        <li><strong>Drug Policy Alliance Reform Conference &middot; Detroit,
-        MI.</strong> &ldquo;Civil Disobedience to Advance Public Health:
-        Colorado&rsquo;s Pop-Up Overdose Prevention Center for Solidarity
-        Week.&rdquo; (poster)</li>
+        <li><strong>November 2025 Drug Policy Alliance Reform Conference
+        &middot; Detroit, MI.</strong> <em>&ldquo;Civil Disobedience to
+        Advance Public Health: Colorado&rsquo;s Pop-Up Overdose
+        Prevention Center for Solidarity Week.&rdquo;</em> Co-presented
+        with Gabriella Turnbill. (poster)</li>
 
-        <li><strong>Drug Policy Alliance Reform Conference &middot; Detroit,
-        MI.</strong> &ldquo;They shouldn&rsquo;t have to go through
-        that&rdquo;: Improving mental health and substance use needs during
-        jail incarceration and while on probation in Colorado. (poster)</li>
+        <li><strong>November 2025 Drug Policy Alliance Reform Conference
+        &middot; Detroit, MI.</strong> <em>&ldquo;They shouldn&rsquo;t
+        have to go through that&rdquo;: Improving mental health and
+        substance use needs during jail incarceration and while on
+        probation in Colorado.</em> Co-presented with Dr. LeMasters.
+        (poster)</li>
 
-        <li><strong>Colorado Opioid Abatement Conference &middot; Loveland,
-        CO.</strong> Keynote panel: &ldquo;Nothing About Us Without
-        Us&rdquo; &mdash; Lived &amp; Living Experience Voice Leading the
-        Charge. (panelist)</li>
+        <li><strong>October 2025 Colorado Opioid Abatement Conference
+        &middot; Loveland, CO.</strong> Keynote panel:
+        <em>&ldquo;Nothing About Us Without Us&rdquo; &mdash; Lived
+        &amp; Living Experience Voice Leading the Charge.</em> Garcia,
+        Medrano, Jorgensen, Fernandez, Spencer, Craft. (panelist)</li>
 
-        <li><strong>Rethinking Addiction Conference &middot; Loveland,
-        CO.</strong> &ldquo;A Roadmap for Standardizing Forensic Peer
-        Support in Colorado Jails.&rdquo;</li>
+        <li><strong>October 2025 Rethinking Addiction Conference
+        &middot; Loveland, CO.</strong> <em>&ldquo;A Roadmap for
+        Standardizing Forensic Peer Support in Colorado
+        Jails.&rdquo;</em></li>
 
-        <li><strong>Rethinking Addiction Conference &middot; Loveland,
-        CO.</strong> &ldquo;The Power of Peer Support: A Collaborative
-        Approach to Transforming Jail-Based Systems of Care.&rdquo;
-        (panel)</li>
+        <li><strong>October 2025 Rethinking Addiction Conference
+        &middot; Loveland, CO.</strong> <em>&ldquo;The Power of Peer
+        Support: A Collaborative Approach to Transforming Jail-Based
+        Systems of Care.&rdquo;</em> (panel)</li>
 
-        <li><strong>Society for Applied Anthropology &middot; Portland,
-        OR.</strong> &ldquo;Arts-Based Anthropology and Liberatory Harm
+        <li><strong>March 2025 Society for Applied Anthropology &middot; Portland,
+        OR.</strong> <em>&ldquo;Arts-Based Anthropology and Liberatory Harm
         Reduction: Perspectives from a University Researcher&ndash;Community
-        Member Graphic Novel Collaboration.&rdquo; (with Otañez)</li>
+        Member Graphic Novel Collaboration.&rdquo;</em> (with Otañez)</li>
       </ul>
 
       <img src="/images/speaking/Integrating-Harm-Reduction.png" alt="Harm Reduction is Healthcare: Decreasing Risk and Stigma with People Who Use Drugs" style="width:100%;height:auto;margin:1.5rem 0;">
