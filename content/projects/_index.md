@@ -13,6 +13,6 @@ show_projects = true
 block = "newsletter"
 newsletter_title = "Stay in touch"
 newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community projects."
-newsletter_identifier = ""
+newsletter_identifier = "buttondown.com/betsy.codpc"
 newsletter_button = "Subscribe"
 +++

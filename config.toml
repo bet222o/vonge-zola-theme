@@ -49,7 +49,7 @@ keywords = ["Harm Reduction", "drug policy", "Colorado", "peer support", "naloxo
 
 [extra.newsletter]
 newsletter_title = "Stay in touch"
-newsletter_identifier = ""
+newsletter_identifier = "buttondown.com/betsy.codpc"
 newsletter_button = "Subscribe"
 newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community projects."
 
@@ -98,12 +98,12 @@ description_html = """
     community events around Colorado.</p>"""
 link_url = "/posts"
 show_posts = true
-# [[extra.content_blocks]]
-# block = "newsletter"
-# newsletter_title = "Stay in touch"
-# newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community projects."
-# newsletter_identifier = ""
-# newsletter_button = "Subscribe"
+[[extra.content_blocks]]
+block = "newsletter"
+newsletter_title = "Stay in touch"
+newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community projects."
+newsletter_identifier = "buttondown.com/betsy.codpc"
+newsletter_button = "Subscribe"
 [[extra.content_blocks]]
 block = "contact-form"
 form_title = "Get in touch"
