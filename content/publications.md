@@ -75,6 +75,15 @@ content_html = """
           of Colorado jail policies for medication for opioid use disorder.
           <em>Under review.</em>
         </li>
+
+        <li>
+          LeMasters, K., Craft, B., Macht, A., Clifton, M., Godinez,
+          B., Henderson, J., McConnellogue, M., Moffett, T., Nagy, M.,
+          Vickers, R., Walker, T., Wise, J. Local Criminal Legal
+          Involvement, Mental Health & Substance Use: A Photovoice Project
+          with a Community Advisory Board. <em>Submitted.</em>
+        </li>
+
       </ol>"""
 [[extra.content_blocks]]
 block = "newsletter"

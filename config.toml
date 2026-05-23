@@ -89,11 +89,11 @@ description_html = """
     <p>Areas where I partner with organizations, coalitions, and community
     projects &mdash; grounded in lived and living expertise and Harm Reduction.</p>"""
 cards = [
-    { title = "Elevating Voices in Research" },
-    { title = "Policy and Organizing" },
-    { title = "Research Projects" },
-    { title = "Community Engagement Projects" },
-    { title = "Drug Policy Projects" },
+    { title = "Community Engagement Projects & Lived Expertise Strategy" },
+    { title = "Public Health & Overdose Prevention Strategy" },
+    { title = "Policy, Advocacy, Coalition Building & Systems Change" },
+    { title = "Research, Storytelling & Arts-Based Dissemination" },
+    { title = "Training, Facilitation & Technical Assistance" },
 ]
 [[extra.content_blocks]]
 block = "blog-section"
