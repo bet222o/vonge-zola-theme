@@ -1,7 +1,7 @@
 +++
 date = "2021-08-27"
 draft = false
-title = "Research — Arts-Based & Storytelling"
+title = "Naloxone Champions: Digital Success Stories"
 description = "Community-made short videos about reversing opioid overdoses across Colorado."
 [taxonomies]
 tags = ["Harm Reduction", "naloxone", "storytelling", "research", "project"]
