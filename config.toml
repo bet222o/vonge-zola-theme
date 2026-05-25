@@ -89,7 +89,7 @@ description_html = """
     <p>Areas where I partner with organizations, coalitions, and community
     projects &mdash; grounded in lived and living expertise and Harm Reduction.</p>"""
 cards = [
-    { title = "Community Engagement Projects & Lived Expertise Strategy" },
+    { title = "Community-led Projects & Lived Expertise Strategy", description = "test" },
     { title = "Public Health & Overdose Prevention Strategy" },
     { title = "Policy, Advocacy, Coalition Building & Systems Change" },
     { title = "Research, Storytelling & Arts-Based Dissemination" },
