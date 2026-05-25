@@ -78,21 +78,16 @@ content_html = """
         Member Graphic Novel Collaboration.&rdquo;</em> (with Otañez)</li>
       </ul>
 
-      <!--
-      <div style="display:flex; align-items:flex-start; margin:1.5rem 0;">
+      <div style="display:flex; align-items:flex-start; gap:10px; margin:1.5rem 0;">
         <img src="/images/speaking/Integrating-Harm-Reduction.png"
              alt="Harm Reduction is Healthcare: Decreasing Risk and Stigma with People Who Use Drugs"
-             style="width:50%; padding-right:10px; display:block;">
-        <div style="width:50%; align-self:stretch; position:relative; overflow:hidden;">
+             style="width:50%; display:block;">
+        <div style="width:50%; aspect-ratio:1.294;">
           <img src="/images/speaking/Heather-Edney.png"
-               alt="Harm Reduction is Healthcare: Decreasing Risk and Stigma with People Who Use Drugs"
-               style="position:absolute; top:0; left:0; width:100%; height:100%; object-fit:cover; object-position:top; display:block;">
+               alt="A collage of harm reduction educational materials from the Santa Cruz Needle Exchange Program, including flyers on safer use practices, syringe basics, wound care, and wellness programs, beneath a header reading 'Heather Edney' and a biographical quote about her founding role in the program."
+               style="width:100%; height:100%; object-fit:contain; object-position:top; display:block;">
         </div>
       </div>
-      -->
-
-      <!-- Use the line below to add an image anywhere inline, replace with your new file name -->
-      <img src="/images/speaking/Integrating-Harm-Reduction.png" alt="Harm Reduction is Healthcare: Decreasing Risk and Stigma with People Who Use Drugs" style="width:100%; height:auto; margin:1.5rem 0;">
 
       <ul>
         <li><strong>American Society of Addiction Medicine &middot; Annual
