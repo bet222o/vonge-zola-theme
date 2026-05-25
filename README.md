@@ -104,7 +104,7 @@ It helps to know what happens behind the scenes when you save a change.
    did.
 3. **GitHub automatically rebuilds your website.** A robot called GitHub
    Actions takes your text files and turns them into the real HTML site,
-   then publishes it to `betsycraft.com`. This usually takes 30 seconds
+   then publishes it to `creativeresistanceco.com`. This usually takes 30 seconds
    to 2 minutes.
 4. **The live site updates.** You may need to refresh the page in your
    browser (Cmd-R on a Mac, Ctrl-R on Windows) to see the new version.
@@ -205,7 +205,7 @@ Scroll to the bottom of the page. You'll see a **Commit changes** box.
 
 ### Step 8 — Wait, then check the site
 
-Go to your live site at `betsycraft.com/posts/`. Wait 30 seconds to a
+Go to your live site at `creativeresistanceco.com/posts/`. Wait 30 seconds to a
 couple of minutes, then refresh. Your new post should appear.
 
 If it doesn't appear after a few minutes, check the **Actions** tab of
@@ -605,7 +605,7 @@ behind buttons.
 whenever you commit a change.
 
 **GitHub Pages** — GitHub's free service for hosting a static website
-from a repository. Yours points at `betsycraft.com`.
+from a repository. Yours points at `creativeresistanceco.com`.
 
 **Markdown** — the simple plain-text formatting language you write
 posts and pages in. See Part 7.
