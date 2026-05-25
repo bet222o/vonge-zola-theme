@@ -1,8 +1,8 @@
 +++
 date = "2023-01-01"
 draft = false
-title = "Craft Consulting — Work with me"
-description = "Community-engaged research, Harm Reduction strategy, and peer-led program design."
+title = "Creative Resistance — Work with me"
+description = "Community-engaged research, Harm Reduction and public health strategy, and peer-led program design."
 [taxonomies]
 tags = ["consulting", "Harm Reduction", "research", "peer support", "project"]
 [extra]
