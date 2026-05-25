@@ -75,7 +75,7 @@ background_image = "/images/group.jpeg"
 background_image_text = "Creative Resistance"
 background_image_alt = "Community gathering"
 title = "Hi, I'm Betsy Craft"
-description_html = "<strong>Harm Reductionist, community-engaged researcher, and drug policy advocate</strong> based in Colorado. I work at the intersection of lived and living expertise, public health, and policy &mdash; partnering with people who use drugs, peer organizers, and coalitions to shift Colorado away from punishment and toward care."
+description_html = "<strong>Harm Reductionist, community-engaged researcher, and drug policy leader</strong> based in Colorado. I work at the intersection of lived and living expertise, public health, and policy &mdash; partnering with people who use drugs, peer organizers, and coalitions to shift Colorado away from punishment and toward care."
 image = "/images/01.jpg"
 image_alt = "Betsy Craft"
 cta_button_link = "#contact"
@@ -89,10 +89,10 @@ description_html = """
     <p>Areas where I partner with organizations, coalitions, and community
     projects &mdash; grounded in lived and living expertise and Harm Reduction.</p>"""
 cards = [
-    { title = "Community-led Projects & Lived Expertise Strategy", description = "test" },
-    { title = "Public Health & Overdose Prevention Strategy" },
+    { title = "Community Engagement & Lived and Living Expertise Strategy", description = "test" },
+    { title = "Public Health & Overdose Prevention" },
     { title = "Policy, Advocacy, Coalition Building & Systems Change" },
-    { title = "Research, Storytelling & Arts-Based Dissemination" },
+    { title = "Community-Led Research, Storytelling & Arts-Based Dissemination" },
     { title = "Training, Facilitation & Technical Assistance" },
 ]
 [[extra.content_blocks]]
