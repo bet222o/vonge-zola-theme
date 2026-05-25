@@ -42,13 +42,16 @@ content_html = """
       </ul>
 
       <h2>Selected 2025 talks, panels, &amp; posters</h2>
+
       <div style="padding: 1rem; text-align: center;">
-  <img 
-    src="images/chloe-comic-panel.jpg" 
-    alt="Comic panel from Humanizing Drug Overdoses in Colorado"
-    style="display: block; width: 100%; max-width: 800px; height: auto; margin: 0 auto; border-radius: 12px;"
-  >
-</div><ul>
+        <img
+          src="images/chloe-comic-panel.jpg"
+          alt="Comic panel from Humanizing Drug Overdoses in Colorado"
+          style="display: block; width: 100%; max-width: 800px; height: auto; margin: 0 auto; border-radius: 12px;"
+        >
+      </div>
+
+      <ul>
         <li><strong>November 2025 Drug Policy Alliance Reform Conference
         &middot; Detroit, MI.</strong> <em>&ldquo;Civil Disobedience to
         Advance Public Health: Colorado&rsquo;s Pop-Up Overdose
