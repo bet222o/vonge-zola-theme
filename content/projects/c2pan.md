@@ -19,15 +19,15 @@ materials is available here:
 
 ### What we do
 
-- Cross-system education and partnership for forensic peer support access
+- **Cross-system education and partnership for forensic peer support access**
 C2PAN delivers presentations and education for law enforcement, jail leadership, Peers, researchers, and community partners on what peer support is, why it matters in carceral settings, and how Colorado jails can begin implementing peer support access models.
-- Forensic peer support policy and training development
+- **Forensic peer support policy and training development**
 C2PAN develops access policies, advanced training and curricula frameworks, and implementation tools that support safe, ethical, and specialized peer support services work in jail settings.
-- Peer leadership and power-building
+- **Peer leadership and power-building**
 C2PAN creates space for peers with lived and living expertise to shape policy, strengthen advocacy, and build power for peer support work across Colorado.
-- Research and evidence-building
+- **Research and evidence-building**
 C2PAN partners with academic researchers to document jail policy gaps, elevate lived expertise, and strengthen the case for peer-led access to care models. 
-- Coalition advocacy and systems change
+- **Coalition advocacy and systems change**
 C2PAN works alongside Peers, community organizations, law enforcement partners, researchers, and policy advocates to advance evidence-informed approaches to peer support, reentry, overdose prevention, and continuity of care. 
 
 If you'd like to collaborate with C2PAN — bring a presentation to your
