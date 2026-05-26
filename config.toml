@@ -86,7 +86,7 @@ works_button = "See my work"
 block = "consulting-services"
 title = "Services and Partnerships"
 description_html = """
-    <p>Areas where I <strong>bridge community wisdom and system-level change<strong> &mdash; transforming lived and living expertise into research, policy, and action rooted in care.</p>"""
+    <p>Areas where I <strong>bridge community wisdom and system-level change</strong> &mdash; transforming lived and living expertise into research, policy, and action rooted in care.</p>"""
 cards = [
     { title = "Community Engagement & Lived and Living Expertise Strategy", description = "Building sustainable infrastructure created by-for-with community experts." },
     { title = "Public Health & Overdose Prevention" , description = "Advancing evidence-based Harm Reduction interventions grounded in trust, equity, relationships, and real-world experience." },
