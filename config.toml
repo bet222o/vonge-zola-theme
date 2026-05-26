@@ -86,8 +86,7 @@ works_button = "See my work"
 block = "consulting-services"
 title = "Consulting Services Available"
 description_html = """
-    <p>Areas where I partner with organizations, coalitions, and community
-    projects &mdash; grounded in lived and living expertise and Harm Reduction.</p>"""
+    <p>Areas where I partner with people, coalitions, institutions, and public agencies &mdash; bringing community knowledge into research, policy, public health practice, and systems change.</p>"""
 cards = [
     { title = "Community Engagement & Lived and Living Expertise Strategy", description = "test" },
     { title = "Public Health & Overdose Prevention" },
