@@ -107,7 +107,7 @@ block = "projects-carousel"
 title = "Selected Projects"
 description_html = """
     <p>Coalitions, research collaborations, and community storytelling
-    projects &mdash; rooted in Harm Reduction and drug user leadership.</p>
+    projects &mdash; rooted in community partnerships and lived and living expertise leadership.</p>
     """
 link_url = "/projects"
 interval = 5000
