@@ -84,12 +84,12 @@ cta_button = "Get in touch"
 works_button = "See my work"
 [[extra.content_blocks]]
 block = "consulting-services"
-title = "Consulting Services Available"
+title = "Services and Partnerships"
 description_html = """
-    <p>Areas where I bridge community wisdom and system-level change &mdash; transforming lived and living experience into research, policy, and action rooted in care.</p>"""
+    <p>Areas where I <strong>bridge community wisdom and system-level change<strong> &mdash; transforming lived and living experience into research, policy, and action rooted in care.</p>"""
 cards = [
     { title = "Community Engagement & Lived and Living Expertise Strategy", description = "test" },
-    { title = "Public Health & Overdose Prevention" , description = "Advancing evidence-based interventions grounded in trust, equity, and real-world experience." },
+    { title = "Public Health & Overdose Prevention" , description = "Advancing evidence-based interventions grounded in trust, equity, and real-world experience" },
     { title = "Policy, Advocacy, Coalition Building & Systems Change" },
     { title = "Community-Led Research, Storytelling & Arts-Based Dissemination" },
     { title = "Training, Facilitation & Technical Assistance" },
