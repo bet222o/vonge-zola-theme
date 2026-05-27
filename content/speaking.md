@@ -53,8 +53,7 @@ content_html = """
         <li><strong>November 2025 Drug Policy Alliance Reform Conference
         &middot; Detroit, MI.</strong> <em>&ldquo;Civil Disobedience to
         Advance Public Health: Colorado&rsquo;s Pop-Up Overdose
-        Prevention Center for Solidarity Week.&rdquo;</em> Co-presented
-        with Gabriella Turnbill. (poster)</li>
+        Prevention Center for Solidarity Week.&rdquo;</em> (poster)</li>
 
         <li><strong>November 2025 Drug Policy Alliance Reform Conference
         &middot; Detroit, MI.</strong> <em>&ldquo;They shouldn&rsquo;t
@@ -97,11 +96,11 @@ content_html = """
       </div>
 
       <ul>
-        <li><strong>American Society of Addiction Medicine &middot; Annual
+        <li><strong>May 2025 American Society of Addiction Medicine &middot; Annual
         Conference.</strong> &ldquo;Harm Reduction is Healthcare: Decreasing
         Risk and Stigma with People Who Use Drugs.&rdquo; (workshop)</li>
 
-        <li><strong>Academic Consortium on Criminal Justice and Health
+        <li><strong>April 2025 Academic Consortium on Criminal Justice and Health
         &middot; Austin, TX.</strong> &ldquo;You Can&rsquo;t Incarcerate
         Yourself Out of the Drug Problem in America&rdquo;: The Burden of
         Additional Criminalization of Fentanyl.</li>
