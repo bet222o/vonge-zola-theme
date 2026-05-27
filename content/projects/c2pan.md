@@ -43,4 +43,4 @@ materials is available here:
     C2PAN supports coordinated action with local and state-level partners to assess local needs, bridge service gaps, strengthen reentry coordination, support overdose prevention, and improve continuity of care for individuals transitioning out of Colorado detention facilites. 
 </p>
 If you'd like to collaborate with C2PAN — bring a presentation to your
-facility, support our work, or partner on research or our roadmap for implementation — please [get in touch](/#contact).
+facility, support our work, or partner on research or our roadmap for implementation — please [Get in touch →](/#contact)
