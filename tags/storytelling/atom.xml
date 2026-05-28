@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Creative Resistance - storytelling</title>
+    <subtitle>Creative Resistance is a Colorado-based consulting practice focused on public health, community-engaged research, lived expertise leadership, overdose prevention, drug policy, and arts-based systems change.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://creativeresistanceco.com/tags/storytelling/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://creativeresistanceco.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-08-27T00:00:00+00:00</updated>
+    <id>https://creativeresistanceco.com/tags/storytelling/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Naloxone Champions: True First Responders</title>
+        <published>2021-08-27T00:00:00+00:00</published>
+        <updated>2021-08-27T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Betsy Craft
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://creativeresistanceco.com/projects/naloxone-champions/"/>
+        <id>https://creativeresistanceco.com/projects/naloxone-champions/</id>
+        
+        <content type="html" xml:base="https://creativeresistanceco.com/projects/naloxone-champions/">&lt;p&gt;&lt;strong&gt;Naloxone Champions: Destigmatizing Overdose Response&lt;&#x2F;strong&gt;
+is a community-engaged digital storytelling project led by Dr. Marty Otañez
+(CU Denver Anthropology) with funding from the Colorado Department of Public
+Health and Environment and the CDC&#x27;s &lt;em&gt;Overdose Data to Action&lt;&#x2F;em&gt; grant.&lt;&#x2F;p&gt;
+&lt;p&gt;In the summer of 2021, &lt;strong&gt;76 Coloradans&lt;&#x2F;strong&gt; — people who use drugs, family
+members, peer responders, EMS and Harm Reduction workers — joined hybrid
+workshops to make short (~3 minute) videos about reversing overdoses,
+low-dose naloxone, reducing stigma, and the humanity of people who use drugs.
+Community screenings followed in Alamosa, Pueblo, Denver, Fort Collins,
+Glenwood Springs, and Grand Junction in August 2021.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Denver cohort&lt;&#x2F;strong&gt; — Co-organized digital storytelling workshops at Colorado Village Collaborative and shared my &quot;DUI&quot; nonfatal overdose story.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list=PLN5WZoQ6RyXOQqji34tS65YnH-KU3IiT0&quot;&gt;Watch the full Denver playlist on YouTube →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;clas.ucdenver.edu&#x2F;anthropology&#x2F;naloxone-champions&quot;&gt;About the project at CU Denver →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;why-it-matters&quot;&gt;Why it matters&lt;&#x2F;h3&gt;
+&lt;p&gt;Naloxone is a lifesaving overdose reversal medication, but stigma is the wall around it. The Naloxone Champions
+project moves beyond statistics to put real Coloradans on screen — neighbors, friends,
+parents, people who use drugs — are all community first responders. Together, we can share lifesaving knowledge with our communities — how to recognize the signs of an overdose, respond quickly, and help save a life in an emergency.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

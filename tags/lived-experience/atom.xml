@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Creative Resistance - lived experience</title>
+    <subtitle>Creative Resistance is a Colorado-based consulting practice focused on public health, community-engaged research, lived expertise leadership, overdose prevention, drug policy, and arts-based systems change.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://creativeresistanceco.com/tags/lived-experience/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://creativeresistanceco.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-06-01T00:00:00+00:00</updated>
+    <id>https://creativeresistanceco.com/tags/lived-experience/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Denver Opioid Abatement Council</title>
+        <published>2023-06-01T00:00:00+00:00</published>
+        <updated>2023-06-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Betsy Craft
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://creativeresistanceco.com/projects/denver-opioid-abatement-council/"/>
+        <id>https://creativeresistanceco.com/projects/denver-opioid-abatement-council/</id>
+        
+        <content type="html" xml:base="https://creativeresistanceco.com/projects/denver-opioid-abatement-council/">&lt;p&gt;I serve as a &lt;strong&gt;Community Advisor on the Denver Opioid Abatement Council
+(DOAC)&lt;&#x2F;strong&gt;, a mayoral appointment I&#x27;ve now held across two consecutive terms.
+The DOAC stewards Denver&#x27;s share of opioid abatement settlement funding to
+mitigate the harms of the opioid crisis in the city and county. I serve on the council as
+a person who uses drugs and an independent subject-matter expert.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;highlights&quot;&gt;Highlights&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Initiated an ordinance change&lt;&#x2F;strong&gt; that established &lt;strong&gt;compensation for
+lived and living expertise community advisors&lt;&#x2F;strong&gt; on the council, and
+expanded equitable representation among voting members and advisors —
+shifting community participation from extractive to sustainable.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Co-led a series of focus groups with unhoused people who use drugs&lt;&#x2F;strong&gt; to
+inform the 2025-2026 DOAC strategic plan, ensuring funding priorities reflect the
+needs of the people most affected by the crisis.&lt;&#x2F;li&gt;
+&lt;li&gt;Participated as &lt;strong&gt;Community Reviewer&lt;&#x2F;strong&gt; on the Colorado Opioid Abatement
+Council&#x27;s Infrastructure Share Grant (Feb–Apr 2023), ensuring lived and
+living expertise informed funding allocation decisions.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;why-this-matters&quot;&gt;Why this matters&lt;&#x2F;h3&gt;
+&lt;p&gt;Opioid settlement money is one of the largest Harm Reduction funding opportunities
+this generation will see in Colorado. Whether it actually reaches the
+people most harmed by the crisis depends on who&#x27;s at the table when
+spending decisions are made — and whether our participation is
+compensated and structured for the long haul.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

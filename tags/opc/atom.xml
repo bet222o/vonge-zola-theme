@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Creative Resistance - OPC</title>
+    <subtitle>Creative Resistance is a Colorado-based consulting practice focused on public health, community-engaged research, lived expertise leadership, overdose prevention, drug policy, and arts-based systems change.</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://creativeresistanceco.com/tags/opc/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://creativeresistanceco.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-02-01T00:00:00+00:00</updated>
+    <id>https://creativeresistanceco.com/tags/opc/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Colorado Drug Policy Coalition</title>
+        <published>2023-02-01T00:00:00+00:00</published>
+        <updated>2023-02-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Betsy Craft
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://creativeresistanceco.com/projects/colorado-drug-policy-coalition/"/>
+        <id>https://creativeresistanceco.com/projects/colorado-drug-policy-coalition/</id>
+        
+        <content type="html" xml:base="https://creativeresistanceco.com/projects/colorado-drug-policy-coalition/">&lt;p&gt;The &lt;strong&gt;Colorado Drug Policy Coalition (CODPC)&lt;&#x2F;strong&gt; is an alliance of organizations and individuals working to make our communities healthier and safer by promoting enlightened drug policy in Colorado based on evidence, human rights, social justice, public health best practices, and the principles of Harm Reduction.&lt;&#x2F;p&gt;
+&lt;p&gt;I am the &lt;strong&gt;Policy Director&lt;&#x2F;strong&gt; of &lt;strong&gt;CODPC&lt;&#x2F;strong&gt;, a statewide coalition that formed in response to Colorado&#x27;s 2023 Overdose Prevention Center (OPC) bill and that advances anti-carceral drug policy across the state. OPCs are proven to save lives, make neighborhoods safer, and connect people with substance use disorders to vital services and treatment.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.codpc.org&quot;&gt;Visit codpc.org →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.instagram.com&#x2F;coloradodpc&quot;&gt;Follow @coloradodpc on Instagram →&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;codpc-works-on&quot;&gt;CODPC works on&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Decriminalizing&lt;&#x2F;strong&gt; drug possession and use as a public-health-first
+policy stance.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Coalition advocacy&lt;&#x2F;strong&gt; alongside the Harm Reduction Action Center,
+Right Response Colorado and drug policy partners statewide.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;strong&gt;Track &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;opcinfo.org&#x2F;states&#x2F;&quot;&gt;OPC legislation&lt;&#x2F;a&gt; nationwide&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
