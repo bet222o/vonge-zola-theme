@@ -2,7 +2,7 @@
 date = "2025-08-17"
 draft = false
 title = "Humanizing Drug Overdoses – A Liberatory Harm Reduction Comic"
-description = An arts-based research project about overdose survival, community care, and how we keep us safe.
+description = "An arts-based research project about overdose survival, community care, and how we keep us safe."
 [taxonomies]
 tags = ["graphic novel", "arts-based research", "comic", "liberatory harm reduction", "project"]
 [extra]
