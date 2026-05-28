@@ -1,7 +1,7 @@
 +++
 date = "2021-08-27"
 draft = false
-title = "Naloxone Champions: Community First Responders in a Public Health Crisis"
+title = "Naloxone Champions: True First Responders"
 description = "Community-led digital storytelling project to destigmatize nonfatal opioid overdose across Colorado."
 [taxonomies]
 tags = ["Harm Reduction", "naloxone", "storytelling", "arts-based research", "project"]
