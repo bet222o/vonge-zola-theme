@@ -11,7 +11,7 @@ image_alt = "Betsy Craft"
 [[extra.content_blocks]]
 block = "content"
 content_html = """
-      <p>I&rsquo;m Betsy Craft &mdash; a Harm Reductionist, community-engaged
+      <p>**I&rsquo;m Betsy Craft** &mdash; a Harm Reductionist, community-engaged
       researcher, peer support practitioner, and drug policy advocate based in
       Colorado. I work at the intersection of lived and living expertise and
       public health, partnering with people who use drugs, frontline organizers,
@@ -35,8 +35,7 @@ content_html = """
         Katherine LeMasters Lab, Division of General Internal Medicine,
         <strong>University of Colorado Anschutz Medical Campus</strong>
         (2023&ndash;present) &mdash; community-engaged qualitative
-        research on mental health, substance use, and criminal legal
-        involvement.</li>
+        research on how the criminal legal system may impact mental health, substance use, and overdose.</li>
 
         <li><strong>Founder &amp; Principal</strong>, <strong>Craft Consulting
         LLC</strong> &mdash; community-engaged research, Harm Reduction
@@ -45,7 +44,7 @@ content_html = """
         coalitions.</li>
 
         <li><strong>Policy Director</strong>, <strong>Colorado Drug Policy
-        Coalition</strong> (2023&ndash;present).</li>
+        Coalition</strong> (2023&ndash;present) &mdash; leading statewide drug policy advocacy, coalition-building, and community organizing to advance Harm Reduction, overdose prevention centers, opioid settlement accountability, and non-punitive public health responses led by people who use drugs.</li>
 
         <li><strong>Founder &amp; Leader</strong>, <strong>Colorado Peer
         Policy Action Network (C2PAN)</strong> (2023&ndash;present) &mdash;
@@ -63,16 +62,11 @@ content_html = """
         appointment, two consecutive terms.</li>
       </ul>
 
-      <h2>Areas of expertise</h2>
-      <p>Community-led and participatory research &middot; health equity
-      &middot; drug user health and overdose prevention &middot; non-punitive
-      drug policy &middot; mass incarceration and re-entry &middot;
-      jail-based peer-led care &middot; qualitative and arts-based research
-      &middot; Harm Reduction &middot; community organizing
-      &middot; coalition-building &middot; peer support &middot; systems
-      change &middot; lived and living expertise leadership &middot;
-      peer-led street outreach implementation &middot; FTIR drug checking
-      &middot; relationship-driven engagement models.</p>
+
+<h2>Areas of expertise</h2>
+<p style="text-align: center;">
+  Community-led and participatory research &middot; Health equity &middot; Drug user health and overdose prevention &middot; Non-punitive drug policy &middot; Mass incarceration &middot; Peer-led access to care &middot; Qualitative and arts-based research &middot; Community organizing &middot; Coalition-building &middot; Peer support &middot; Systems change &middot; Lived and living expertise leadership &middot; Peer-led street outreach implementation &middot; Relationship-driven public health engagement models &middot; Storytelling and narrative change &middot; Community advisory board development &middot; Policy strategy and advocacy &middot; Training and technical assistance &middot; Arts-based dissemination &middot; Overdose prevention education &middot; Community-centered public health strategy.
+</p>
 
       <h2>Education</h2>
       <ul>
@@ -82,24 +76,29 @@ content_html = """
         Business</li>
       </ul>
 
-      <blockquote><p>People who use drugs are experts in their own lives.
-      Policy that doesn&rsquo;t start there isn&rsquo;t policy &mdash;
-      it&rsquo;s punishment with paperwork.</p></blockquote>
+    <blockquote>
+  <p>
+    “When it comes to Harm Reduction, people who use drugs are the motherf’ing table.”
+    <br>
+    &mdash; Heather Edney
+  </p>
+</blockquote>
 
-      <p>My work has spanned legislative testimony, peer-led research,
+      <p>My work has spanned legislative testimony, qualitative research,
       arts-based dissemination (photovoice, zines, graphic novels),
-      participatory budgeting, jail visiting rooms, and city- and
-      state-level advisory boards. Shift power, share resources, keep
+      participatory budgeting, jail-based peer support models, and city- and
+      state-level advisory boards. National panels on overdose prevention centers. Shift power, share resources, keep
       people alive.</p>
 
       <p>If you&rsquo;d like to collaborate on community-engaged research,
       policy advocacy, peer support program design, or Harm Reduction
-      education &mdash; or to bring Craft Consulting in on a project &mdash;
+      education &mdash; or to bring Creative Resistance in on a project &mdash;
       <a href="/#contact">please get in touch.</a>"""
+      
 [[extra.content_blocks]]
 block = "newsletter"
 newsletter_title = "Stay in touch"
-newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community projects."
+newsletter_description = "Updates on Harm Reduction work, drug policy in Colorado, and community-engaged research projects."
 newsletter_identifier = "buttondown.com/api/emails/embed-subscribe/betsy.codpc"
 newsletter_button = "Subscribe"
 +++
